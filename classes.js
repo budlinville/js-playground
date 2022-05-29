@@ -40,5 +40,5 @@ car.move();
 const plane = new Plane('Betsy');
 plane.move();
 
-const boat = new Boat('Helga');
+const boat = new Boat('Helga', 'lazily');
 boat.move();

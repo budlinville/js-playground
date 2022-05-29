@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=2Nt-ZrNP22A&list=WL&index=6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "budlinville",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}

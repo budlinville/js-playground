@@ -1,6 +1,6 @@
 // spread operator
 const foobizzle = (a,b,c) => console.log(`${a} - ${b} - ${c}`)
-const fooArr = [55,44,22];
+const fooArr = [55,44,22, 5];
 foobizzle(...fooArr)
 
 // rest paramaters
